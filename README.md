@@ -53,3 +53,39 @@ Style Requirements:
 - No people
 - No logos except Java logo when relevant
 - Looks like a thumbnail from a 1M+ subscriber programming channel
+
+🚀 Hook (Grab Attention)
+        ↓
+❓ Problem (Why do we need this?)
+        ↓
+🌍 Real-World Analogy
+        ↓
+🎨 Visualization
+        ↓
+🧠 Intuition (How to think?)
+        ↓
+📖 Definition / Concept
+        ↓
+⚙️ Internal Working
+        ↓
+🏗 Memory Representation
+        ↓
+📝 Java Syntax
+        ↓
+💻 Code Implementation
+        ↓
+🧠 Dry Run (Step-by-Step)
+        ↓
+📊 Time & Space Complexity
+        ↓
+🏢 Production Use Cases
+        ↓
+🎯 Interview Questions
+        ↓
+❌ Common Mistakes
+        ↓
+🔥 Advanced Concepts
+        ↓
+🏋️ Practice Problems
+        ↓
+📌 Summary & Revision
